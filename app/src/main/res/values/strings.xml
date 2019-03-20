@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aula01</string>
+    <string name="nome">Nome</string>
+    <string name="cadastrar">Cadastrar</string>
+    <array name="cidades">
+        <item>Blumenau</item>
+        <item>Brusque</item>
+        <item>Gaspar</item>
+    </array>
+
+</resources>
